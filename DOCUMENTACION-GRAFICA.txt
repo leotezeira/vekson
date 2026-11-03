@@ -1,0 +1,164 @@
+PROYECTO: SITIO WEB INSTITUCIONAL — AGENCIA DIGITAL
+
+ROL
+
+Actuar como un equipo compuesto por:
+
+• Director de arte digital.
+• Diseñador UI/UX senior.
+• Desarrollador frontend senior.
+• Especialista en SEO y optimización web.
+
+OBJETIVO
+
+Desarrollar el sitio web institucional de una agencia especializada en diseño y desarrollo de soluciones digitales.
+
+Servicios:
+
+• Diseño y desarrollo de sitios web.
+• Tiendas online.
+• Aplicaciones móviles.
+• Sistemas personalizados.
+• Soluciones digitales para empresas y emprendimientos.
+
+El sitio debe representar la calidad técnica y creativa de la empresa.
+
+DIRECCIÓN ARTÍSTICA
+
+Concepto: EDITORIAL DIGITAL / CREATIVE STUDIO.
+
+Referencias estéticas:
+
+• Estudios creativos contemporáneos.
+• Publicidad editorial tecnológica.
+• Minimalismo moderno.
+• Tipografía experimental de gran escala.
+• Mockups fotorealistas.
+• Composiciones asimétricas.
+• Espacios negativos.
+• Diseño de alto impacto visual.
+
+No utilizar estructuras genéricas de landing pages.
+
+IDENTIDAD CROMÁTICA
+
+Blanco: #FFFFFF
+Negro: #111111
+Azul eléctrico: #2458E8
+Lima: #D1D83D
+Beige: #D7C5A8
+Gris claro: #F3F3F1
+Gris medio: #777777
+
+El blanco será predominante. El negro tendrá la función tipográfica principal. El azul será el color identificador de la marca. El lima y el beige serán colores complementarios.
+
+TIPOGRAFÍA
+
+Principal: Manrope.
+Secundaria: Inter.
+Alternativa editorial: Space Grotesk.
+
+Utilizar titulares grandes y fluidos, con jerarquías claramente definidas.
+
+LENGUAJE VISUAL
+
+• Composiciones editoriales asimétricas.
+• Bloques tipográficos.
+• Etiquetas flotantes.
+• Imágenes grandes.
+• Mockups de dispositivos.
+• Líneas finas y separadores.
+• Elementos geométricos.
+• Superposiciones controladas.
+• Botones minimalistas.
+• Animaciones suaves.
+
+PÁGINAS
+
+1. Inicio.
+2. Servicios.
+3. Detalle de cada servicio.
+4. Portfolio.
+5. Detalle de proyectos.
+6. Nosotros.
+7. Contacto.
+
+HOME
+
+Desarrollar las siguientes secciones:
+
+1. Navbar minimalista.
+2. Hero editorial de gran impacto.
+3. Franja animada de especialidades.
+4. Presentación de la empresa.
+5. Servicios.
+6. Portfolio.
+7. Diferenciales.
+8. Proceso de trabajo.
+9. CTA final.
+10. Footer.
+
+STACK TÉCNICO
+
+• Next.js.
+• React.
+• TypeScript.
+• Tailwind CSS.
+• Supabase cuando sea necesario.
+• Vercel para despliegue.
+• Lucide para iconografía.
+• Framer Motion para animaciones selectivas.
+
+REQUISITOS DE DESARROLLO
+
+• Arquitectura modular.
+• Componentes reutilizables.
+• Tokens de diseño.
+• CSS variables.
+• Responsive.
+• SEO.
+• Accesibilidad.
+• Optimización de imágenes.
+• Formularios funcionales.
+• Seguridad.
+• Buen rendimiento.
+
+CRITERIO DE DISEÑO
+
+No utilizar cards repetitivas en todas las secciones.
+
+Cada bloque debe tener una composición visual diferenciada.
+
+No llenar todos los espacios.
+
+No utilizar sombras excesivas.
+
+No utilizar gradientes innecesarios.
+
+No exagerar las animaciones.
+
+No generar textos comerciales genéricos sin sentido.
+
+El diseño debe parecer desarrollado por un estudio creativo profesional.
+
+METODOLOGÍA
+
+FASE 1: Definir arquitectura de información y estructura de páginas.
+
+FASE 2: Construir sistema visual y tokens.
+
+FASE 3: Desarrollar componentes reutilizables.
+
+FASE 4: Construir la página principal.
+
+FASE 5: Desarrollar páginas internas.
+
+FASE 6: Implementar formularios y funcionalidades.
+
+FASE 7: Optimizar SEO, accesibilidad y rendimiento.
+
+FASE 8: Realizar pruebas y publicar.
+
+No desarrollar todo de forma improvisada. Mantener consistencia visual y técnica durante todo el proyecto.
+
+#VEKSON-IDENTIDAD-GRAFICA
